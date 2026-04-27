@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there 👋
+🚀 About Me
 
-<!--
-**Kishore-B06/Kishore-B06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 3rd-year Integrated M.Tech student at VIT Vellore, passionate about building real-world solutions using machine learning, AI, and full-stack development. I enjoy turning complex ideas into practical, user-friendly applications.
 
-Here are some ideas to get you started:
+🎓 Integrated M.Tech in Computer Science & Engineering  — VIT Vellore (2023 – 2028)
+📊 CGPA: 9.2 / 10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I’m Working On
+
+MERN full-stack projects
+AI/ML-based applications
+Improving real-world project collaboration skills
+
+🌱 Currently Learning
+
+Advanced MERN stack
+Machine Learning & AI concepts
+Real-world system design and deployment
+
+👯 Looking to Collaborate On
+
+Full-stack (MERN) projects
+AI/ML projects
+Any impactful real-world software solutions
+
+🤝 Looking for Help With
+
+Advanced AI/ML concepts
+Building production-level projects
+
+💬 Ask Me About
+
+MERN Stack basics
+AI/ML fundamentals
+Beginner-friendly full-stack projects
+Problem-solving and coding approaches
+
+🧠 Interests
+
+Applied Machine Learning
+Full-Stack Development
+AI-powered applications
+Building scalable systems
+
+📍 Location
+Vellore, India
+
+⚡ Fun Fact
+I focus on understanding concepts deeply rather than memorizing, and I enjoy solving problems step by step.
