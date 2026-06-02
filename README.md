@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════ -->
 <!--              TYPING ANIMATION                  -->
 <!-- ═══════════════════════════════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7C5CBF&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Hey+there!+I'm+Kishore+B+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Cloud+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=7C5CBF&center=true&vCenter=true&random=false&width=650&height=50&lines=Hey+there!+I'm+Kishore+B+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Cloud+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/github/followers/Kishore-B06?label=Followers&style=for-the-badge&color=533483&labelColor=0f3460&logoColor=white&logo=github"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -72,8 +70,25 @@ class Kishore:
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   INNOVATIVE BANNER — PROJECT TIMELINE (replaces graph)       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-B06&bg_color=1a1a2e&color=b39ddb&line=7c5cbf&point=e2d9f3&area=true&area_color=533483&hide_border=true&radius=8" width="97%"/>
+
+### 🗺️ My Project Journey
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=B39DDB&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%94%97+2024+%E2%86%92+Resume+Verification+via+Blockchain+%7C+Healthcare+Management+System;%F0%9F%A4%96+2025+%E2%86%92+AI+Multi-Domain+Feedback+Intelligence+%28FLAN-T5+%2B+Gradio%29;%F0%9F%94%90+2026+%E2%86%92+Secure+Document+Verification+Platform+%28FastAPI+%2B+Docker%29;%F0%9F%9A%80+Next+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+Cloud-Native+Full+Stack+Apps)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Snake animation — shows contribution snake eating your dots -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+</picture>
+
 </div>
 
 ---
@@ -134,7 +149,7 @@ class Kishore:
 
 ### 🧠 Core CS Knowledge
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0f3460?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOPS-533483?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-533483?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud_Basics-7c5cbf?style=for-the-badge&logo=icloud&logoColor=white"/>
 
@@ -228,6 +243,11 @@ class Kishore:
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kishore-B06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b39ddb&icon_color=7c5cbf&text_color=e2d9f3&count_private=true&include_all_commits=true&border_radius=12" height="185"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-B06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b39ddb&text_color=e2d9f3&langs_count=8&border_radius=12" height="185"/>
 
 <br/><br/>
 
@@ -254,6 +274,8 @@ class Kishore:
 ⭐ &nbsp; **100% Attendance Award** — VIT Vellore AY 2023–24 &nbsp; ![2023-24](https://img.shields.io/badge/2023--24-533483?style=flat-square)
 
 <br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kishore-B06&theme=discord&no-frame=true&column=6&margin-w=8&margin-h=8&no-bg=true" width="92%"/>
 
 </div>
 
