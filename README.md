@@ -252,8 +252,6 @@ class Kishore:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kishore-B06&theme=discord&no-frame=true&column=6&margin-w=8&margin-h=8&no-bg=true" width="92%"/>
-
 </div>
 
 ---
