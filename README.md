@@ -70,28 +70,9 @@ class Kishore:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   INNOVATIVE BANNER — PROJECT TIMELINE (replaces graph)       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🗺️ My Project Journey
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=B39DDB&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%94%97+2024+%E2%86%92+Resume+Verification+via+Blockchain+%7C+Healthcare+Management+System;%F0%9F%A4%96+2025+%E2%86%92+AI+Multi-Domain+Feedback+Intelligence+%28FLAN-T5+%2B+Gradio%29;%F0%9F%94%90+2026+%E2%86%92+Secure+Document+Verification+Platform+%28FastAPI+%2B+Docker%29;%F0%9F%9A%80+Next+%E2%86%92+Agentic+AI+%7C+LLMs+%7C+Cloud-Native+Full+Stack+Apps)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Snake animation — shows contribution snake eating your dots -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kishore-B06/Kishore-B06/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</picture>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
