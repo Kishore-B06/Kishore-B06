@@ -226,10 +226,6 @@ class Kishore:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kishore-B06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b39ddb&icon_color=7c5cbf&text_color=e2d9f3&count_private=true&include_all_commits=true&border_radius=12" height="185"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-B06&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b39ddb&text_color=e2d9f3&langs_count=8&border_radius=12" height="185"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-B06&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=533483&ring=7c5cbf&fire=b39ddb&currStreakNum=e2d9f3&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=b39ddb&dates=8b7bc4&border_radius=12" width="58%"/>
